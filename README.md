@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Karan and I am currently learning web development and DSA in java.
 
 <!--
 **Karanstwts/Karanstwts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
