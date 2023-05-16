@@ -1,1 +1,1 @@
-### Hi there 👋 I am Karan and I am currently learning web development and DSA in java.
+### Hi 👋 I am Karan and I am currently learning web development and DSA in java.
